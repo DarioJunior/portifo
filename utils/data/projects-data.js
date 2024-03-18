@@ -1,5 +1,3 @@
-import travel from '/public/image/travel.jpg';
-
 export const projectsData = [
     {
         id: 1,
@@ -29,7 +27,7 @@ export const projectsData = [
         code: '',
         role: 'Full Stack Developer',
         demo: 'https://dariojunior.github.io/appalmirinha/',
-        image: realEstate,
+        image: '',
     }
 ];
 
